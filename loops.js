@@ -7,9 +7,10 @@ function forLoop(array)
 
 function whileLoop(n)
   {
+    let s='not done'
     while (n>0)
     {
-      n--;
+      s= (n--===0?'done':'not done'
     }
     return n;
   }
