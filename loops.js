@@ -15,3 +15,15 @@ function whileLoop(n)
     }
     return s;
   }
+
+function doWhileLoop(num)
+{
+  do{
+    
+  } while (num===0) 
+}
+
+doWhileLoop(num)
+         console logs "I run once regardless." 
+         1 time when passed an integer of 0 a
+s a parameter.:
