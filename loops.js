@@ -11,6 +11,7 @@ function whileLoop(n)
     while (n>0)
     {
       s= (n--===0?'done':'not done')
+      console.log(`${s} <=done counter=> ${n}`)
     }
     return s;
   }
