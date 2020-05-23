@@ -11,5 +11,5 @@ function whileLoop(n)
     {
       n--;
     }
-
+    return n;
   }
