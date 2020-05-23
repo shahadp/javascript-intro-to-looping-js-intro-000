@@ -10,7 +10,7 @@ function whileLoop(n)
     let s='not done'
     while (n>0)
     {
-      s= (n--===0?'done':'not done')
+      s= (--n===0?'done':'not done')
     }
     return s;
   }
