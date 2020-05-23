@@ -22,5 +22,3 @@ function doWhileLoop(num)
     console.log("I run once regardless.")
   } while (num===0)
 }
-
-
